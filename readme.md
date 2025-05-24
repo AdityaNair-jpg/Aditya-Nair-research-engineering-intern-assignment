@@ -17,6 +17,9 @@ A powerful, interactive web-based dashboard for analyzing social media data. Bui
 
 ---
 
+[![Watch Here](https://img.youtube.com/vi/https://youtu.be/YVFYJYzhGfQ/0.jpg)](https://youtu.be/YVFYJYzhGfQ)
+
+
 ## 📦 Installation
 
 1. Clone the repo:
